@@ -1,0 +1,88 @@
+<mxfile host="Electron" modified="2024-01-07T09:51:32.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tA3-MTxL-NL8I7itCojX" version="22.1.16" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="949" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ndq_RK-XRpKNwud2csnP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ndq_RK-XRpKNwud2csnP-1" target="ndq_RK-XRpKNwud2csnP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-4" value="Maturzyści" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="ndq_RK-XRpKNwud2csnP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-1" value="System edukacji powszechnej" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="39" y="400" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.082;entryY=0.701;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ndq_RK-XRpKNwud2csnP-2" target="ndq_RK-XRpKNwud2csnP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-7" value="Absolwenci" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="ndq_RK-XRpKNwud2csnP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-2" value="System edukacji&lt;br&gt;wyższej" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.899;exitY=0.314;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ndq_RK-XRpKNwud2csnP-5" target="ndq_RK-XRpKNwud2csnP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-10" value="Nowo&lt;br&gt;zatrudnieni" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="ndq_RK-XRpKNwud2csnP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-5" value="Rynek &lt;br&gt;pracowników" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;horizontal=0;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndq_RK-XRpKNwud2csnP-8" target="ndq_RK-XRpKNwud2csnP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="475" />
+              <mxPoint x="590" y="580" />
+              <mxPoint x="210" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-12" value="Kształcenie ustawiczne" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="ndq_RK-XRpKNwud2csnP-11">
+          <mxGeometry x="0.1691" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-8" value="Rynek &lt;br&gt;pracy" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ndq_RK-XRpKNwud2csnP-2" target="ndq_RK-XRpKNwud2csnP-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="390" />
+              <mxPoint x="373" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-16" value="Częściowo wykwalifikowani &lt;br&gt;rezygnujący z nauki" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="ndq_RK-XRpKNwud2csnP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ndq_RK-XRpKNwud2csnP-1" target="ndq_RK-XRpKNwud2csnP-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="396" as="sourcePoint" />
+            <mxPoint x="399.60769515458674" y="413.0384757729337" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="69" y="356" />
+              <mxPoint x="400" y="356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndq_RK-XRpKNwud2csnP-15" value="Niewykwalifikowani &lt;br&gt;rezygnujący z nauki" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="ndq_RK-XRpKNwud2csnP-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
