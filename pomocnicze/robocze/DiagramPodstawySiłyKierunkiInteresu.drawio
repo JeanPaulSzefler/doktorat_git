@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2024-01-13T21:15:15.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="nJIBkTjHBHDqp8KzlIn7" version="22.1.18" type="device">
+  <diagram name="Strona-1" id="ykcFkXvmeahBVvEDziC2">
+    <mxGraphModel dx="1660" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x0LG43o8Oa7EU4Xdlt_K-1" target="x0LG43o8Oa7EU4Xdlt_K-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="x0LG43o8Oa7EU4Xdlt_K-1" target="x0LG43o8Oa7EU4Xdlt_K-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x0LG43o8Oa7EU4Xdlt_K-1" target="x0LG43o8Oa7EU4Xdlt_K-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-1" value="&lt;b&gt;Nazwa interesariusza&lt;br&gt;&amp;lt;Gracz 1&amp;gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="159" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-2" value="&lt;b&gt;Kierunki zainteresowania&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="39" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-4" value="&lt;b&gt;Podstawy siły (władzy)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="279" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-6" value="Co oni &quot;widzą&quot;?&lt;br&gt;Wg jakich kryteriów interpretują zachowania organizacji?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="59" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="x0LG43o8Oa7EU4Xdlt_K-9" source="x0LG43o8Oa7EU4Xdlt_K-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-42" y="159" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-9" value="Jaki widzą wasz wpływ &lt;br&gt;na ich dążenia?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="59" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" target="x0LG43o8Oa7EU4Xdlt_K-11" source="x0LG43o8Oa7EU4Xdlt_K-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.5" y="319" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-11" value="Możliwe do zastosowania sankcje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559.5" y="229" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" target="x0LG43o8Oa7EU4Xdlt_K-13" source="x0LG43o8Oa7EU4Xdlt_K-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.5" y="319" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0LG43o8Oa7EU4Xdlt_K-13" value="Mechanizmy wspierające" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="229" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
