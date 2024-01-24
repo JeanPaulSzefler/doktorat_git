@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2024-01-24T20:21:10.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="KAn5v0SZ8r8Tcn5ie-XA" version="22.1.21" type="device">
+  <diagram name="Strona-1" id="laxGZXdT7d6BTxK2LpeO">
+    <mxGraphModel dx="1992" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="whOgMQIQbeaKbzkhpNVu-1" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Rekrutuj&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;&quot;Chodź z nami&quot;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;br&gt;Potencjalni studenci&lt;br&gt;Rodzice&lt;br&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=50;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry width="180" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="whOgMQIQbeaKbzkhpNVu-2" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Utrzymaj&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;&quot;Oto co się dzieje&quot;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;br&gt;Pracownicy&lt;br&gt;Studenci&lt;br&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=50;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" width="180" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="whOgMQIQbeaKbzkhpNVu-3" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Raportuj&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;&quot;Oto co robimy&quot;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;br&gt;Absolwenci&lt;br&gt;Partnerzy&lt;br&gt;Prasa&lt;br&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=50;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="241" width="180" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="whOgMQIQbeaKbzkhpNVu-4" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Strategie &lt;br&gt;komunikacyjne uniwersytetów &lt;br&gt;w mediach społecznościowych&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=50;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="80" width="180" height="156" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
