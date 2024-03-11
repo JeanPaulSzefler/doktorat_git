@@ -1,88 +1,88 @@
-<mxfile host="Electron" modified="2024-03-09T20:17:50.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="_x7ZZ4cwbxkmh2ANnwp9" version="23.1.5" type="device">
+<mxfile host="Electron" modified="2024-03-11T06:14:18.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="dCgsxOR176ZexDhtsoRE" version="24.0.4" type="device">
   <diagram name="Strona-1" id="ZPURoTI-YACidWWffcV0">
-    <mxGraphModel dx="496" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-1" value="Identyfikacja istotnych interesariuszy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-1" value="Identyfikacja istotnych interesariuszy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-2" target="iZXRrfKID2UvS0r0eVAW-8">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-2" target="iZXRrfKID2UvS0r0eVAW-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-2" value="Opracowanie narzędzia badawczego (wybór szczegółowych pytań pomiaru SSI: np. doprecyzowanie zakresów czasowych; opracowanie pytań dodatkowych pozwalajacych pozyskać odpowiedzi na istotne pytania wynikające z badania jakościowego)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-2" value="Opracowanie narzędzia badawczego (wybór szczegółowych pytań pomiaru SSI: np. doprecyzowanie zakresów czasowych; opracowanie pytań dodatkowych pozwalajacych pozyskać odpowiedzi na istotne pytania wynikające z badania jakościowego)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="500" width="120" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-3" value="Identyfikacja istotnych obszarów doskonalenia z punktu widzenia intersariuszy - badanie jakościowe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-3" value="Identyfikacja istotnych obszarów doskonalenia z punktu widzenia intersariuszy - badanie jakościowe" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-4" target="iZXRrfKID2UvS0r0eVAW-12">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-4" target="iZXRrfKID2UvS0r0eVAW-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-4" value="Wybór celowy grupy respondentów do wywiadów jakościowych uwzględniający władze organizacji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="120" height="120" as="geometry" />
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-4" value="Wybór celowy grupy respondentów do wywiadów jakościowych uwzględniający władze organizacji" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-5" target="iZXRrfKID2UvS0r0eVAW-6">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-5" target="iZXRrfKID2UvS0r0eVAW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-5" value="Analiza szerokiego spektrum potencjalnych intersariuszy uczelni" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-5" value="Analiza szerokiego spektrum potencjalnych intersariuszy uczelni" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-6" target="iZXRrfKID2UvS0r0eVAW-10">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-6" target="iZXRrfKID2UvS0r0eVAW-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-6" value="Opis cech każdej z grup w celu ich klasyfikacji" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-6" value="Opis cech każdej z grup w celu ich klasyfikacji" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-8" target="iZXRrfKID2UvS0r0eVAW-18">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-8" target="iZXRrfKID2UvS0r0eVAW-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-8" value="Wybór grupy badawczej pozwalającej na uzyskanie wiarygodnych i statystycznie istotnych odpowiedzi" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-8" value="Wybór grupy badawczej pozwalającej na uzyskanie wiarygodnych i statystycznie istotnych odpowiedzi" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="510" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-10" value="Wybór najisotniejszych grup intersariuszy przy uwzględnieniu misji i celów organizacji" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-10" value="Wybór najisotniejszych grup intersariuszy przy uwzględnieniu misji i celów organizacji" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-12" target="iZXRrfKID2UvS0r0eVAW-14">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-12" target="iZXRrfKID2UvS0r0eVAW-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-12" value="Opracowanie planu wywiadów umożliwiającego osiągnięcie celu badania" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="320" width="120" height="120" as="geometry" />
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-12" value="Opracowanie planu wywiadów umożliwiającego osiągnięcie celu badania" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-14" target="iZXRrfKID2UvS0r0eVAW-16">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-14" target="iZXRrfKID2UvS0r0eVAW-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-14" value="Przeprowadzenie wywiadów badania jakościowego" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="320" width="120" height="120" as="geometry" />
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-14" value="Przeprowadzenie wywiadów badania jakościowego" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-16" value="Analiza wyników wywiadu z uwzględnieniem identyfikacji istotnych obszarów doskonalenia z punktu widzenia intersariuszy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="320" width="120" height="120" as="geometry" />
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-16" value="Analiza wyników wywiadu z uwzględnieniem identyfikacji istotnych obszarów doskonalenia z punktu widzenia intersariuszy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-18" target="iZXRrfKID2UvS0r0eVAW-20">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-18" target="iZXRrfKID2UvS0r0eVAW-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-18" value="Przeprowadzenie badania &quot;kontrolnego&quot; w celu weryfikacji narzędzia pomiarowego" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-18" value="Przeprowadzenie badania &quot;kontrolnego&quot; w celu weryfikacji narzędzia pomiarowego" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="510" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-20" target="iZXRrfKID2UvS0r0eVAW-22">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-20" target="iZXRrfKID2UvS0r0eVAW-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-20" value="Wprowadzenie ewentualnych korekt do narzędzia pomiarowego" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-20" value="Wprowadzenie ewentualnych korekt do narzędzia pomiarowego" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="510" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-22" target="iZXRrfKID2UvS0r0eVAW-24">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-22" target="iZXRrfKID2UvS0r0eVAW-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-22" value="Przeprowadzenie badania właściwego" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-22" value="Przeprowadzenie badania właściwego" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iZXRrfKID2UvS0r0eVAW-24" target="iZXRrfKID2UvS0r0eVAW-26">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-24" target="iZXRrfKID2UvS0r0eVAW-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-24" value="Analiza wyników badania; sprawdzenie reprezentatywności grupy badawczej i statystycznej istotności uzyskanych wyników" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-24" value="Analiza wyników badania; sprawdzenie reprezentatywności grupy badawczej i statystycznej istotności uzyskanych wyników" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="730" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-26" value="Analiza wyników badania; sprawdzenie reprezentatywności grupy badawczej i statystycznej istotności uzyskanych wyników" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-26" value="Analiza wyników badania; sprawdzenie reprezentatywności grupy badawczej i statystycznej istotności uzyskanych wyników" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="730" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
