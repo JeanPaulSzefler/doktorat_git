@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2024-04-15T06:10:55.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="9-zXjd38A5cFrAMmtcC4" version="24.2.5" type="device">
+  <diagram name="Strona-1" id="Sjl_9fCkeCsYZoZEE_z2">
+    <mxGraphModel dx="1374" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jl-1hNPgUvuF58t2oEqW-1" target="CNpp7590AfPJ6LhRXFM2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jl-1hNPgUvuF58t2oEqW-1" target="CNpp7590AfPJ6LhRXFM2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jl-1hNPgUvuF58t2oEqW-1" value="&lt;b style=&quot;&quot;&gt;POSTRZEGANA JAKOŚĆ USŁUGI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-1" target="jl-1hNPgUvuF58t2oEqW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-1" value="&lt;b&gt;WIZERUNEK&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-3" value="POSTRZEGANA&lt;br&gt;USŁUGA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-5" value="OCZEKIWANA&lt;br&gt;USŁUGA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-7" target="CNpp7590AfPJ6LhRXFM2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-7" value="JAKOŚĆ&lt;br&gt;TECHNICZNA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-8" target="CNpp7590AfPJ6LhRXFM2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-8" value="JAKOŚĆ&lt;br&gt;FUNKCJONALNA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tradycyjne działania marketingowe oraz wpływ zewnętrzny poprzez tradycje, ideologie i polecenia&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-12" value="Co?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-13" value="Jak?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
