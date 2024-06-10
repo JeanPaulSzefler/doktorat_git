@@ -1,50 +1,119 @@
-<mxfile host="Electron" modified="2024-04-15T06:14:01.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="vOykkfsYa2ByvB96WU3a" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-04-15T06:44:35.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="i32VlskxPZxs5UpTYtqC" version="24.2.5" type="device">
   <diagram name="Strona-1" id="Sjl_9fCkeCsYZoZEE_z2">
-    <mxGraphModel dx="1374" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jl-1hNPgUvuF58t2oEqW-1" target="CNpp7590AfPJ6LhRXFM2-3">
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-14" target="CNpp7590AfPJ6LhRXFM2-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="jl-1hNPgUvuF58t2oEqW-1" target="CNpp7590AfPJ6LhRXFM2-5">
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-14" value="Potrzeby osobiste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-15" target="CNpp7590AfPJ6LhRXFM2-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jl-1hNPgUvuF58t2oEqW-1" value="&lt;b style=&quot;&quot;&gt;POSTRZEGANA JAKOŚĆ USŁUGI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-15" value="Doświadczenia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-1" target="jl-1hNPgUvuF58t2oEqW-1">
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-17" target="CNpp7590AfPJ6LhRXFM2-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-1" value="&lt;b&gt;WIZERUNEK&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-17" value="Komunikacja ustna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-3" value="POSTRZEGANA&lt;br&gt;USŁUGA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-5" value="OCZEKIWANA&lt;br&gt;USŁUGA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-7" target="CNpp7590AfPJ6LhRXFM2-1">
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-19" target="CNpp7590AfPJ6LhRXFM2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-7" value="JAKOŚĆ&lt;br&gt;TECHNICZNA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-27" value="Luka 5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CNpp7590AfPJ6LhRXFM2-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-8" target="CNpp7590AfPJ6LhRXFM2-1">
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-19" target="CNpp7590AfPJ6LhRXFM2-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="143" />
+              <mxPoint x="200" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-43" value="Luka 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CNpp7590AfPJ6LhRXFM2-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="-55" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-19" value="Oczekiwane usługi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-21" target="CNpp7590AfPJ6LhRXFM2-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-8" value="JAKOŚĆ&lt;br&gt;FUNKCJONALNA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-21" value="Postrzegane usługi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tradycyjne działania marketingowe oraz wpływ zewnętrzny poprzez tradycje, ideologie i polecenia&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="140" height="60" as="geometry" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-23" target="CNpp7590AfPJ6LhRXFM2-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-12" value="Co?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="285" width="60" height="30" as="geometry" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-28" value="Luka 4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CNpp7590AfPJ6LhRXFM2-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CNpp7590AfPJ6LhRXFM2-13" value="Jak?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="285" width="60" height="30" as="geometry" />
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.914;exitY=1.019;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-23" target="CNpp7590AfPJ6LhRXFM2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-23" value="Usługi dostarczone&lt;br&gt;(z uwzględnieniem kontaktu przed i po)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-25" target="CNpp7590AfPJ6LhRXFM2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-25" target="CNpp7590AfPJ6LhRXFM2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-25" value="Formy i umięjętności komunikowania się &lt;br&gt;z klientem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-33" target="CNpp7590AfPJ6LhRXFM2-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-37" value="Luka 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CNpp7590AfPJ6LhRXFM2-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-33" target="CNpp7590AfPJ6LhRXFM2-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-33" value="Przekszatłacenie percepcji na wymagania jakości usług" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1" source="CNpp7590AfPJ6LhRXFM2-38" target="CNpp7590AfPJ6LhRXFM2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-41" value="Luka 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CNpp7590AfPJ6LhRXFM2-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-46" value="" style="group;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="520" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-44" value="" style="html=1;shadow=0;dashed=1;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=11.54;dx=23.83;notch=272.56;arrowHead=14.29;direction=north;fillColor=none;dashPattern=1 4;" vertex="1" parent="CNpp7590AfPJ6LhRXFM2-46">
+          <mxGeometry y="210" width="520" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="CNpp7590AfPJ6LhRXFM2-46">
+          <mxGeometry width="520" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-48" value="Klient" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CNpp7590AfPJ6LhRXFM2-46">
+          <mxGeometry y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-49" value="Usługodawca" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CNpp7590AfPJ6LhRXFM2-46">
+          <mxGeometry y="250" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CNpp7590AfPJ6LhRXFM2-38" value="Percepcja oczekiwań klientów wśród zarządzających" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
