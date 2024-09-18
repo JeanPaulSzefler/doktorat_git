@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Strona-1" id="ZPURoTI-YACidWWffcV0">
+    <mxGraphModel dx="755" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SLQnQ5sDmMqCRToJFb2x-1" value="1. Identification of the mission, vision&amp;nbsp;and goals of the university" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="55" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-18" target="YzgCYqUCURwKcO3qDLiV-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-18" value="6. Selection of areas for improvement" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="455" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" parent="1" source="iZXRrfKID2UvS0r0eVAW-1" target="iZXRrfKID2UvS0r0eVAW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;2. Identyfication of key stakeholders&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="255" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" parent="1" source="iZXRrfKID2UvS0r0eVAW-3" target="SLQnQ5sDmMqCRToJFb2x-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-3" value="&lt;span class=&quot;hljs-string&quot;&gt;3. Identification of key areas for improvement&amp;nbsp;from the stakeholders’ perspective– qualitative research&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="455" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" parent="1" source="SLQnQ5sDmMqCRToJFb2x-1" target="iZXRrfKID2UvS0r0eVAW-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" parent="1" source="SLQnQ5sDmMqCRToJFb2x-2" target="SLQnQ5sDmMqCRToJFb2x-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLQnQ5sDmMqCRToJFb2x-2" value="4. Analysis of external sources of information potentially correlated with the organization&#39;s actions toward stakeholders" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="655" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" parent="1" source="SLQnQ5sDmMqCRToJFb2x-3" target="YzgCYqUCURwKcO3qDLiV-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLQnQ5sDmMqCRToJFb2x-3" value="5. Statistical verification&lt;br&gt;of stakeholders&#39; satisfaction levels and significance of other qualitative research findings" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="655" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=arrow;" parent="1" source="YzgCYqUCURwKcO3qDLiV-24" target="YzgCYqUCURwKcO3qDLiV-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-24" value="7. Implementation &lt;br&gt;of changes to achieve improvements &lt;br&gt;in selected areas" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="255" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lhQeCGYUJxPM1-3rOEWA-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" parent="1" source="YzgCYqUCURwKcO3qDLiV-65" target="YzgCYqUCURwKcO3qDLiV-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-65" value="8. Planning contionous feedback collection" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="55" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vHDiEHz5v03A65j5FyS1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-74" target="SLQnQ5sDmMqCRToJFb2x-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="460" />
+              <mxPoint x="25" y="460" />
+              <mxPoint x="25" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-74" value="9. Continous improvement" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="55" y="320" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
