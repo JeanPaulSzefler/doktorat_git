@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-09-09T14:59:30.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="zuuL6Ryo3SpXYg2xpIFo" version="24.5.1" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="Strona-1" id="tQ_Byxg3EqiRD9VO070x">
     <mxGraphModel dx="1044" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="yI0UYQt4QdmJE8LmjKo2-2" value="&lt;b&gt;Government&lt;/b&gt;&lt;br&gt;(assigning public funds; &lt;br&gt;expects efficiency)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yI0UYQt4QdmJE8LmjKo2-4" value="&lt;b&gt;Społeczeństwo&lt;/b&gt;&lt;br&gt;(co-funder; &lt;br&gt;expects effects)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yI0UYQt4QdmJE8LmjKo2-4" value="&lt;b&gt;Society&lt;/b&gt;&lt;br&gt;(co-funder; &lt;br&gt;expects effects)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yI0UYQt4QdmJE8LmjKo2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yI0UYQt4QdmJE8LmjKo2-6" target="yI0UYQt4QdmJE8LmjKo2-8" edge="1">
