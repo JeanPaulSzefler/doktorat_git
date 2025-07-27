@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
   <diagram name="Strona-1" id="ZPURoTI-YACidWWffcV0">
-    <mxGraphModel dx="957" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="628" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="iZXRrfKID2UvS0r0eVAW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-6" target="iZXRrfKID2UvS0r0eVAW-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZXRrfKID2UvS0r0eVAW-6" value="2.2 Description &lt;br&gt;of each group&#39;s characteristics &lt;br&gt;for classification" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="iZXRrfKID2UvS0r0eVAW-6" value="2.2 Description &lt;br&gt;of each group&#39;s characteristics &lt;br&gt;for their classification" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZXRrfKID2UvS0r0eVAW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZXRrfKID2UvS0r0eVAW-8" target="iZXRrfKID2UvS0r0eVAW-18" edge="1">
@@ -188,7 +188,7 @@
         <mxCell id="YzgCYqUCURwKcO3qDLiV-11" value="&lt;i&gt;5.6.2&amp;nbsp;Statistical verification of the significance of obtained results&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="370" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VLXHn2YgdVdNb-UDWVGR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YzgCYqUCURwKcO3qDLiV-13" target="YzgCYqUCURwKcO3qDLiV-15">
+        <mxCell id="VLXHn2YgdVdNb-UDWVGR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-13" target="YzgCYqUCURwKcO3qDLiV-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-13" value="&lt;i&gt;5.6.3&amp;nbsp;Calculation &lt;br&gt;of key indicator measures &lt;br&gt;(including SSI)&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
@@ -273,7 +273,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-28" value="7.2 Assigning &lt;br&gt;methodoly of changes implementation based &lt;br&gt;on problem &lt;br&gt;characteristics" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-28" value="7.2 Assigning &lt;br&gt;methodoly for&lt;br&gt;&amp;nbsp;implementation of changes depending on problem &lt;br&gt;characteristics" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="428" y="1185" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-34" target="YzgCYqUCURwKcO3qDLiV-20" edge="1">
@@ -304,7 +304,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-41" value="7.7 Establishing the initial action plan with estimated costs and dependencies" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1540" width="120" height="90" as="geometry" />
+          <mxGeometry x="220" y="1550" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-43" target="YzgCYqUCURwKcO3qDLiV-45" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -328,7 +328,7 @@
         <mxCell id="lhQeCGYUJxPM1-3rOEWA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.005;exitY=0.644;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="1" source="YzgCYqUCURwKcO3qDLiV-51" target="YzgCYqUCURwKcO3qDLiV-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-51" value="7.11 Iterative implementation of &lt;br&gt;further improvements until the goal is reached or new goals are set" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-51" value="7.11 Iterative implementation &lt;br&gt;of further improvements until the goal is reached or new goals are set" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="210" y="1740" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-52" target="YzgCYqUCURwKcO3qDLiV-53" edge="1">
@@ -352,8 +352,8 @@
         <mxCell id="YzgCYqUCURwKcO3qDLiV-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-57" target="YzgCYqUCURwKcO3qDLiV-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-57" value="7.15 Identification of the project’s critical path and key risks for monitoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1590" width="120" height="90" as="geometry" />
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-57" value="7.15 Identification &lt;br&gt;of the project’s critical path and key risks for monitoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1600" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-59" target="YzgCYqUCURwKcO3qDLiV-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -390,19 +390,19 @@
         <mxCell id="YzgCYqUCURwKcO3qDLiV-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-67" target="YzgCYqUCURwKcO3qDLiV-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-67" value="8.1 Ustalenie szczegółów metod pozyskiwania informacji zwrotnej&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-67" value="8.1 Defining the details of feedback collection methods" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-68" target="YzgCYqUCURwKcO3qDLiV-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-68" value="8.2 Zaplanowanie regularnych cykli pozyskiwania informacji zwrotnej" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-68" value="8.2 Planning regular feedback collection cycles" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-70" target="YzgCYqUCURwKcO3qDLiV-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-70" value="8.3 Automatyzacja procesu pozyskiwania informacji zwrotnej tam, gdzie to możliwe" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-70" value="8.3 Automating the feedback collection process where possible" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lhQeCGYUJxPM1-3rOEWA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="1" source="YzgCYqUCURwKcO3qDLiV-72" target="YzgCYqUCURwKcO3qDLiV-74" edge="1">
@@ -413,7 +413,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-72" value="8.4 Zaangażowanie interesariuszy &lt;br&gt;w proces udzielania informacji zwrotnej" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-72" value="8.4 Engaging stakeholders in the feedback process" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="1940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lhQeCGYUJxPM1-3rOEWA-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="YzgCYqUCURwKcO3qDLiV-74" target="YzgCYqUCURwKcO3qDLiV-75" edge="1">
@@ -437,14 +437,14 @@
         <mxCell id="lhQeCGYUJxPM1-3rOEWA-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-75" target="YzgCYqUCURwKcO3qDLiV-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-75" value="9.1 Identyfikacja&lt;br&gt;i ustanowienie wiarygodnych wskaźników&amp;nbsp;efektów działań uczelni&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-75" value="9.1 Identification &lt;br&gt;and establishment &lt;br&gt;of reliable indicators of university performance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="2100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-76" target="YzgCYqUCURwKcO3qDLiV-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-76" value="&lt;i&gt;9.1.1 Opracowanie zestawu wskaźników na podstawie dostępnej literatury oraz własnych badan uwzględniających specyfikę organizacji&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="2080" width="120" height="120" as="geometry" />
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-76" value="&lt;i&gt;9.1.1&amp;nbsp;Development &lt;br&gt;of a set of indicators based on available literature and internal research that reflects organisational specifics&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="2085" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vHDiEHz5v03A65j5FyS1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-78" target="YzgCYqUCURwKcO3qDLiV-80" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -455,8 +455,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-78" value="&lt;i&gt;9.1.2 Podjęcie zobowiązania &lt;br&gt;przez najwyższe kierownictwo do długoterminowego utrzymania pomiaru wybranych stałych wskaźników&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="2080" width="120" height="120" as="geometry" />
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-78" value="&lt;i&gt;9.1.2&amp;nbsp;Commitment by top management to long-term monitoring of selected key indicators&lt;/i&gt;" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2090" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;dashPattern=1 1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-80" target="YzgCYqUCURwKcO3qDLiV-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -464,13 +464,13 @@
         <mxCell id="lhQeCGYUJxPM1-3rOEWA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-80" target="YzgCYqUCURwKcO3qDLiV-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-80" value="9.2 Ustanowienie cykli pomiaru &lt;br&gt;i weryfikacji efektów działań uczelni&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2230" width="120" height="80" as="geometry" />
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-80" value="9.2 Establishing cycles &lt;br&gt;of measurement &lt;br&gt;and verification &lt;br&gt;of university performance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2225" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-82" target="YzgCYqUCURwKcO3qDLiV-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-82" value="&lt;i&gt;9.2.1 Ustalenie potrzeb w zakresie długości cyklu pomiarów&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-82" value="&lt;i&gt;9.2.1&amp;nbsp;Determining the required length of measurement cycles&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="390" y="2235" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vHDiEHz5v03A65j5FyS1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-84" target="YzgCYqUCURwKcO3qDLiV-86" edge="1">
@@ -482,43 +482,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-84" value="&lt;i&gt;9.2.2 Ustanowienie zestawu metod pomiaru&amp;nbsp;i weryfikacji efektów działań&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-84" value="&lt;i&gt;9.2.2&amp;nbsp;Establishment of a set of methods for measuring and verifying results&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="530" y="2235" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-86" target="YzgCYqUCURwKcO3qDLiV-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-86" value="9.3 Ustanowienie cykli przeglądu wniosków z pomiarów oraz pozyskiwania informacji zwrotnej&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-86" value="9.3 Establishing cycles for reviewing measurement findings and feedback gathering" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="2340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-88" target="YzgCYqUCURwKcO3qDLiV-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-88" value="9.4 Ustanowienie cykli regularnej analizy obszarów&lt;br&gt;do poprawy oraz wdrażania zmian" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-88" value="9.4 Establishing cycles of regular analysis &lt;br&gt;of improvement areas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="2340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-90" target="YzgCYqUCURwKcO3qDLiV-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-90" value="9.5 Zaplanowanie sposobów &lt;br&gt;na świętowanie sukcesów w ramach organizacji" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-90" value="9.5 Planning methods to celebrate success within the organisation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="2340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YzgCYqUCURwKcO3qDLiV-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-92" target="YzgCYqUCURwKcO3qDLiV-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-92" value="9.6 Ustanowienie sposobów transparentnego gromadzenia wiedzy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-92" value="9.6 Establishing a transparent knowledge management system" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="2440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHDiEHz5v03A65j5FyS1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YzgCYqUCURwKcO3qDLiV-94" target="vHDiEHz5v03A65j5FyS1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YzgCYqUCURwKcO3qDLiV-94" value="9.7 Ustanowienie regularnych przeglądów procesu ciągłego doskonalenia&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YzgCYqUCURwKcO3qDLiV-94" value="9.7 Establishing rules for regular&amp;nbsp;reviewing improvement processes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="2440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHDiEHz5v03A65j5FyS1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="1" source="vHDiEHz5v03A65j5FyS1-3" target="YzgCYqUCURwKcO3qDLiV-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vHDiEHz5v03A65j5FyS1-3" value="9.8 Regularne wdrażanie usprawnień procesu ciągłego doskonalenia&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vHDiEHz5v03A65j5FyS1-3" value="9.8 Regular implementation &lt;br&gt;of enhancements &lt;br&gt;in the continuous improvement process" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="2440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vHDiEHz5v03A65j5FyS1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YzgCYqUCURwKcO3qDLiV-47" target="YzgCYqUCURwKcO3qDLiV-51" edge="1">
