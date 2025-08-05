@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Strona-1" id="xCCsqhU6PNBuaq4Lg01Y">
+    <mxGraphModel dx="713" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tlA8XyT9zvOroINSg6rd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-2" target="tlA8XyT9zvOroINSg6rd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Overarching stakeholder management strategy&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-3" value="General Monitoring&lt;br&gt;Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-6" target="tlA8XyT9zvOroINSg6rd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Specific stakeholder management strategies&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-7" value="Involve &lt;br&gt;Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-12" target="tlA8XyT9zvOroINSg6rd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-12" value="Supportive stakeholders" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-14" target="tlA8XyT9zvOroINSg6rd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-14" value="Marginal&lt;br&gt;stakeholders" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-15" target="tlA8XyT9zvOroINSg6rd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-15" value="Mixed blessing&lt;br&gt;stakeholders" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-16" target="tlA8XyT9zvOroINSg6rd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-16" value="Non-supportive&lt;br&gt;stakeholders" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-6" target="tlA8XyT9zvOroINSg6rd-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-6" target="tlA8XyT9zvOroINSg6rd-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="tlA8XyT9zvOroINSg6rd-6" target="tlA8XyT9zvOroINSg6rd-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-20" value="Monitor&lt;br&gt;(closely)&lt;br&gt;Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-21" value="Collaborate&lt;br&gt;Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tlA8XyT9zvOroINSg6rd-22" value="Peer Influence&amp;nbsp;&lt;br&gt;or Defend&lt;br&gt;Strategy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
